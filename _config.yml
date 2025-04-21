@@ -244,6 +244,14 @@ defaults:
       author_profile: true
       share: true
 
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /cv/
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
