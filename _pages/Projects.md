@@ -3,6 +3,7 @@ title: "Projects"
 permalink: /projects/
 layout: single
 author_profile: true
+nav: true
 ---
 
 # Projects
