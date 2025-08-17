@@ -7,84 +7,117 @@ redirect_from:
   - /resume
 ---
 
-# Contact Information
-* **Email**: [matthew.hockert@gmail.com](mailto:matthew.hockert@gmail.com)
-* **LinkedIn**: [linkedin.com/in/matthewhockert](https://www.linkedin.com/in/matthewhockert/)
+## Contact Information
+* **PhD Student in Applied Economics**
+* **Phone**: 763•785•7058  
+* **Personal website**: [matthewhockert.github.io](https://matthewhockert.github.io)  
+* **Email**: [matthew.hockert@gmail.com](mailto:matthew.hockert@gmail.com)  
+* **LinkedIn**: [linkedin.com/in/matthewhockert](https://www.linkedin.com/in/matthewhockert/)  
 
-# Education
-* **PhD in Applied Economics**, University of Minnesota, Minneapolis, MN, Expected 2022 - Present
-  * Coursework: Applied Microeconomic Sequence, Ph.D. Econometrics Sequence, Programming
-    for Econometrics, Big Data Methods in Economics, Introduction to Machine Learning,
-    Principles of Database Systems.
-  * Classroom experience with econometrics and machine learning:
-  * Built machine learning models including perceptron algorithm, decision trees, and Nearest
-    neighbors (KNN) using Python in 'Introduction to Machine Learning'.
-  * Applied and evaluated causal inference techniques in econometric modeling, utilizing R to
-    construct and test various models as part of the 'Ph.D. Econometrics Sequence' course.
-  * Implemented machine learning packages in python as well as text and web scraping
-    analysis in R as part of 'Big Data Methods' and 'Programming for Econometrics' courses.
-* **MS in Applied Economics**, University of Minnesota, Minneapolis, MN, 2020 - 2022
-  * Graduate minor: Data Science.
-  * Thesis: A Spatial Approach to Agrifood Supply Chain Structure.
-  * Examined the structural dynamics of U.S. agrifood supply chains during COVID•19, using
-    spatial regression models to measure the effect of food capacity on food flows at county
-    levels across the supply chain.
-  * Utilized various datasets, including IMPLAN and Census data, to develop spatial regression
-    models, which captured movements of goods through the supply chain.
-  * Generated results about the impact of adjacent supply chain segments on regional
-    coefficients, providing insights into the potential fragility or resilience of the supply chains.
-  * Chosen to be a Selected Paper Presenter at AAEA.
-* **BA in Economics and Political Science**, University of Minnesota Duluth, 2017 - 2020
-  * Graduated with honors.
-  * GPA: 3.7/4.0
-  * Honors: University Honors Program, Dean's List, Cum Laude, Economic Department Honors,
-    Omicron Delta Epsilon.
+---
 
-# Research Experience
-* **Data Science Intern**, Federal Reserve Bank of Minneapolis, June 2022 - Present
-  * Assisting the production team in Stress Testing to convert code from MATLAB to R to build
-    forecasting models for assessing bank resiliency against various macroeconomic shocks.
-  * Analyzed data of U.S. banking conditions under the new CECL guidelines and presented
-    findings to examiners and supervisors.
-  * Created Rshiny applications providing analytics and incorporating risk models to identify bank
-    risk levels by loan and asset types.
-  * Investigated changes in rural banking quality and agricultural output in the Ninth District.
-  * Created Rshiny dashboard displaying differences in counties’ economies and banking
-  conditions.
-* **Graduate Research Assistant**, Accessibility Observatory, Sept 2022 - Present
-  * Created public datasets on accessibility of transportation types (bike, car, and transit) using
-    Pandas and SQL.
-  * Developed Python pipeline taking data from DBeaver, cleaning it, and generated weighted
-    average data of jobs accessible from block group to state level within the US.
-  * Created Rshiny application using leaflet package to display job accessibility nationally from
-    block group to state level.
-  * Experience using GIT in UNIX environment.
-  * Familiarity with SQL within Dbeaver and Python pipeline.
-* **Graduate Research Assistant**, University of Minnesota, Sept 2020 - 2022
-  * Conducted literature review for future publication.
-  * Examined regional food system resiliency during the COVID•19 Pandemic.
-  * Built comprehensive dataset using Census and IMPLAN data for OLS and spatial regression
-    models in R.
-* **Undergraduate Research Assistant**, Bureau of Business and Economic Research, Duluth, MN, Sept 2019 - May 2020
-  • Generated local economic data and performed data analysis on IMPLAN, Excel, and SPSS.
-  • Cleaned and interpreted survey data on Qualtrics and Excel.
-  • Worked with fellow research assistants to write publications that were later published on the
-    university website.
-  • Helped in crafting literature review and public outreach for labor market research.
+## Education
+* **PhD in Applied Economics**, University of Minnesota, Minneapolis, MN, September 2022 – Present  
+  * Fourth year PhD student during 2025–2026 school year.  
+  * Research Fields: land use, housing, transportation, and public finance.  
 
-# Skills
-*  Programming languages: R, Python, SQL, SPSS, SAS, EViews, GAUSS
-* Database Management Tools: DBeaver, psycopg2
-* Data visualization tools: Tableau, Rshiny
-* Survey platforms: Qualtrics
-* Version control: Git, UNIX
+* **Master of Science in Applied Economics**, University of Minnesota, Minneapolis, MN, September 2020 – June 2024  
+  * Graduate minor: Data Science.  
+  * Thesis: *A Spatial Approach to Agrifood Supply Chain Structure* under the guidance of Hikaru Peterson, Professor of Applied Economics.  
+  * Examined the structural dynamics of U.S. agrifood supply chains during COVID-19, using spatial regression models to measure the effect of food capacity on food flows at county levels across the supply chain.  
+  * Utilized datasets including IMPLAN and Census data (County Business Patterns Survey, American Community Survey, USDA ERS, Department of Transportation, etc.).  
+  * Generated results from spatial regression models, capturing how neighboring county capacity variations affected goods flow through the supply chain.  
+  * Selected Paper Presenter at AAEA.  
 
-# Presentations
-* **Selected Paper Presenter**, AAEA, July 2023
-  * ["A Spatial Approach to Agrifood Supply Chain Resiliency"](https://ageconsearch.umn.edu/record/335774/files/26064.pdf).
+* **B.A. in Economics and Political Science**, University of Minnesota Duluth, 2017 – 2020  
+  * GPA: 3.7/4.0  
+  * Clubs: Men’s Club Lacrosse, Treasurer of local Mortar Board chapter.  
+  * Honors: University Honors Program, Dean's List, Cum Laude, Economics Department Honors, Omicron Delta Epsilon.  
 
-# Honors and Awards
-* Dean's List, Cum Laude, Economic Department Honors, Omicron Delta Epsilon.
+---
 
-# Professional Memberships
-* Agriculture and Applied Economic Association (AAEA)
+## Works in Progress
+
+### Dissertation Essays
+* *Conservation and Externalities: The Effect of Conservation Easements on Neighboring Residential Parcels*  
+* *Rent Control and Housing Supply: Evidence from a Staggered Difference-in-Differences Approach*  
+* *Measuring Rent Control Intensity with Natural Language Processing and Generative Models*  
+
+### Additional Research
+* *Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior*  
+
+---
+
+## Research Experience
+
+**Conservation Economist – Intern II**  
+Hennepin County, Minneapolis, MN • June 2024 – Present  
+* Evaluated the impact of conservation easements and programs (Green Acres, Agricultural Preserve, Rural Preserve) on property values, tax burden, and neighboring parcels.  
+* Studied spillover effects on neighboring parcels, including shifts in housing values and tax liability from nearby conservation easements.  
+* Simulated conservation easement scenarios to estimate fiscal impacts and illustrate tax implications for municipal budgets and finances.  
+* Used R, QGIS, and ArcGIS to analyze spatial patterns in how conservation and tax policy shape local property values and public finance outcomes.  
+* Analyzed costs of Best Management Practices and Nature-based Climate Solutions, including installation, maintenance, and funding options (grants, bonding, CIP, in-kind contributions).  
+* Developed cost analyses and forecasts for contract specifications, including labor, equipment, and long-term maintenance, incorporating depreciation and capitalization of tools and vehicles in partnership with Hennepin County, TRPD, and Great River Greening.  
+* Assisted with survey administration and data management using Survey123, including collecting responses, organizing results, and supporting integration into project workflows.  
+
+**Graduate Research Assistant (GRA)**  
+Accessibility Observatory, Minneapolis, MN • September 2022 – Present  
+* Created public datasets on accessibility of transportation types (bike, car, and transit) using Pandas and SQL.  
+* Developed Python pipeline taking data from AWS, cleaning it, and generating weighted average data of jobs accessible from blocks to state level within the US.  
+* Built and utilized additional pipelines to generate access data for ad hoc deliverables for Met Council and state Departments of Transportation.  
+* Created Rshiny application using leaflet to display national job accessibility (block group to state level) and distributed to partners.  
+* Experienced with GitHub and Git commands.  
+
+**Data Science Intern**  
+Federal Reserve Bank of Minneapolis, Minneapolis, MN • June 2022 – March 2024  
+* Assisted the Stress Testing team in converting code from MATLAB to R to build forecasting models (VAR, Kalman Filtering) for assessing bank resiliency against macroeconomic shocks.  
+* Analyzed U.S. banking conditions under the new CECL policy and presented findings to examiners and supervisors.  
+* Created Rshiny applications incorporating risk models to identify bank risk levels by loan and asset types.  
+* Investigated changes in rural banking quality and agricultural output in the Ninth District.  
+* Built an Rshiny dashboard using U.S. Census ACS and Federal Reserve data to visualize county-level economic and banking conditions.  
+* Pulled and processed data from Federal Reserve servers for models and dashboards.  
+* Utilized Gitlab and Linux with the Stress Testing team.  
+
+**Graduate Research Assistant (GRA)**  
+Project: Foodshed • Agricultural Commodities  
+University of Minnesota, Minneapolis, MN • September 2020 – 2022  
+* Conducted literature review for future publication.  
+* Examined regional food system resiliency during the COVID-19 Pandemic.  
+* Built comprehensive dataset using Census and IMPLAN data for OLS and spatial regression models in R.  
+
+**Undergraduate Research Assistant**  
+Bureau of Business and Economic Research, Duluth, MN • September 2019 – May 2020  
+* Generated local economic data and performed analysis using IMPLAN, Excel, and SPSS.  
+* Cleaned and interpreted survey data on Qualtrics and Excel.  
+* Collaborated with fellow RAs to produce publications later published on the university website.  
+* Contributed to literature review and public outreach for labor market research.  
+
+---
+
+## Skills
+* **Programming languages**: R, Python, SQL, SPSS, SAS, EViews, GAUSS  
+* **Database Management Tools**: AWS (S3, EC2), DBeaver  
+* **Data visualization tools**: Tableau, Rshiny  
+* **Survey platforms**: Qualtrics  
+* **Version control**: Git  
+
+---
+
+## Presentations
+* *“A Spatial Approach to Agrifood Supply Chain Resiliency”* — Selected Paper Presenter, Agricultural & Applied Economics Association (AAEA) Annual Meeting, July 2023  
+* *“Calculating the Total Travel Time from Crash to Emergency Care in Rural Minnesota”* — Transportation Research Conference, Center for Transportation Studies, November 2024  
+* *“Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior”* — Transportation Research Conference, Center for Transportation Studies, November 2025  
+
+---
+
+## Honors and Awards
+* University Honors Program  
+* Dean's List (2017–2020)  
+* Cum Laude  
+* Economics Department Honors  
+* Omicron Delta Epsilon  
+
+---
+
+## Professional Memberships
+* Agriculture and Applied Economic Association (AAEA)  
