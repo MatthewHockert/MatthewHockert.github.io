@@ -7,11 +7,10 @@ redirect_from:
   - /resume
 ---
 
-You can download my CV [here](/files/Matthew Hockert - Curriculum Vitae):
+You can download my CV [here](/files/Matthew%20Hockert%20-%20Curriculum%20Vitae.pdf)
 
 ## Contact Information
 * **PhD Student in Applied Economics**
-* **Phone**: 763•785•7058  
 * **Personal website**: [matthewhockert.github.io](https://matthewhockert.github.io)  
 * **Email**: [matthew.hockert@gmail.com](mailto:matthew.hockert@gmail.com)  
 * **LinkedIn**: [linkedin.com/in/matthewhockert](https://www.linkedin.com/in/matthewhockert/)  
