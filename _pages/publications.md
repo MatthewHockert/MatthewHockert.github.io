@@ -11,21 +11,25 @@ author_profile: true
 
 {% include base_path %}
 
-## Works in Progress
+## Works in Progress  
 
 I am currently developing several research papers as part of my dissertation and related projects. These works are ongoing and represent different stages of the research process — from data collection and model design to drafting and presentation.  
 
 - **Conservation and Externalities: The Effect of Conservation Easements on Neighboring Residential Parcels**  
-  Examines the spillover effects of conservation easements on neighboring property values and municipal tax bases.  
+  - Examines the spillover effects of conservation easements on neighboring property values and municipal tax bases in Hennepin County, MN.  
+  - First full draft completed; currently under revision.  
 
 - **Rent Control and Housing Supply: Evidence from a Staggered Difference-in-Differences Approach**  
-  Investigates the impact of rent control adoption on permitting and housing supply dynamics.  
+  - Investigates the impact of rent control adoption on permitting and housing supply across U.S. cities.  
+  - Preliminary models completed; refining analysis and drafting.  
 
 - **Measuring Rent Control Intensity with Natural Language Processing and Generative Models**  
-  Uses municipal codes and NLP/AI techniques to create new indices of rent control restrictiveness across U.S. cities.  
+  - Uses municipal codes and NLP/AI techniques to create new indices of rent control restrictiveness across U.S. cities.  
+  - Data collection and measurement framework in progress.  
 
 - **Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior**  
-  A separate research project exploring the interaction between infrastructure expansion, accessibility, and land use change.  
+  - Explores how infrastructure expansion reshapes accessibility, land use, and housing markets.  
+  - Developed with Eric Lind at the [Accessibility Observatory](https://www.cts.umn.edu/programs/ao) using in-house data. Submitted for presentation; preparing for public release.  
 
 ---
 
