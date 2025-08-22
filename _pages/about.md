@@ -17,6 +17,6 @@ I am currently a Graduate Research Assistant with the [Accessibility Observatory
 
 Previously, I worked as a Data Science Intern at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org) for two and a half years. During my time there, I contributed to various projects, including analyzing the effects of Current Expected Credit Loss (CECL) on banks’ reserves and collaborating with the stress testing team. My responsibilities included enhancing their forecasting model with Kalman Filtering and Smoothing techniques. 
 
-Broadly, my work combines spatial data analysis, econometrics, and alternative data sources (including municipal codes and text-based measures) to study how policy and infrastructure decisions affect housing markets, land use, and local public finance.
+Broadly, my work combines spatial data analysis, econometrics, and alternative data sources (such as municipal codes and other text-based sources) to study how policy and infrastructure decisions affect housing markets, land use, and local public finance.
 
 Thanks for visiting!
