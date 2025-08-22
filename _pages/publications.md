@@ -31,6 +31,8 @@ I am currently developing several research papers as part of my dissertation and
   - Explores how infrastructure expansion reshapes accessibility, land use, and housing markets.  
   - Developed with Eric Lind at the [Accessibility Observatory](https://www.cts.umn.edu/programs/ao) using in-house data. Submitted for presentation; preparing for public release.  
 
+As I begin the publishing and public sharing phase of my research you'll be able to find the code to my projects on my [github](https://github.com/MatthewHockert). 
+
 ---
 
 ## Publications
