@@ -70,7 +70,7 @@ The chart shows how high the vacant lot fee would need to be, depending on how a
 
 - If I perfectly counted all 1,339 parcels (100% on the right), each lot would need to pay about $7,920 annually — nearly 3x the minimum fee.  
 - If I over counted by half (only about 700 real vacant parcels), the required fee would jump to nearly $16,000 per parcel — almost 6x higher than the minimum.  
-- If we took the \$7,920 fee and added it on top of the $439 average tax that vacant parcels are paying now, they would pay roughly \$8,359, which would only move the vacant parcels up three spots from the bottom in terms of average taxes from the table above.
+- If we took the \$7,920 fee and added it on top of the \$439 average tax that vacant parcels are paying now, they would pay roughly \$8,359, which would only move the vacant parcels up three spots from the bottom in terms of average taxes from the table above.
 
 ## Big Picture
 
