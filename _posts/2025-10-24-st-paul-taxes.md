@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: redirect
 title: "What If St. Paul Made Vacant Landowners Pay for the Budget Shortfall?"
 date: 2025-10-24
 description: "A hypothetical fiscal simulation for St. Paul exploring how vacant property fees could replace a tax levy increase."
-hidden: true
+redirect_to: /files/vacant_land_fees_st_paul-6.pdf
 ---
 
 <iframe
