@@ -1,19 +1,32 @@
-/* Limit overall post width */
+/* Center the main content like a Substack article */
 .page, .page__content, .post, .post__content, .main, .main__content {
-    max-width: 850px;
-    margin: 0 auto;
-    padding: 0 1.25rem;
-  }
-  
-  /* Adjust line length and readability */
-  .page__content p, .post__content p {
-    line-height: 1.6;
-    font-size: 1.05em;
-  }
-  
-  /* Optional: constrain wide images */
-  .page__content img, .post__content img {
-    max-width: 100%;
-    border-radius: 6px;
-    box-shadow: 0 0 8px rgba(0,0,0,0.1);
-  }
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem 1.25rem;
+  line-height: 1.7;
+  font-size: 1.05em;
+}
+
+/* Make headings consistent and not too wide */
+.page__content h1, .page__content h2, .page__content h3,
+.post__content h1, .post__content h2, .post__content h3 {
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Keep images readable, centered, and not huge */
+.page__content img, .post__content img {
+  display: block;
+  margin: 2rem auto;
+  max-width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+/* Make code snippets and tables match the narrow layout */
+.page__content pre, .post__content pre,
+.page__content table, .post__content table {
+  max-width: 100%;
+  margin: 1.5rem auto;
+}
