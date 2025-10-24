@@ -38,7 +38,7 @@ According to the City of St. Paul, property owners must register vacant or unocc
 Under the Saint Paul Legislative Code, [Section 43.02](https://library.municode.com/mn/st._paul/codes/code_of_ordinances?nodeId=PTIILECO_TITVIBUHO_CH43VABU_S43.03VABURE), owners of registered vacant buildings are required to pay an annual registration fee. The fee is designed to recover the city’s administrative and enforcement costs associated with monitoring these properties. In this post, I am creating a hypothetical world where we can use these fees to offset the budgetary shortfall and not have to use the fees in the traditional way. The fee schedule is structured by category as follows:
 
 - Category I: $2,705 per year  
-- Category II: $2,705 in the first year and $5,410 per year thereafter  
+- Category II: \$2,705 in the first year and \$5,410 per year thereafter  
 - Category III: $5,410 per year
 
 ## Crunching the Numbers
@@ -60,17 +60,17 @@ _Source: Author’s calculations using 2024 St. Paul parcel data._
 
 The figure below shows the location of these vacant parcels. Some vacant parcels are concentrated near I-94 and along the Green Line corridor, with additional clusters on the city’s east side and scattered across other neighborhoods.
 
-![St. Paul's vacant parcels mapped](Map%20of%20Vacant%20Parcels%20in%20St.%20Paul.png)
+![St. Paul's vacant parcels mapped]({{ '/assets/images/Map of Vacant Parcels in St. Paul.png' | relative_url }})
 
 Given that the current minimum vacant building fee is about $2,705 per year, to cover the city’s shortfall without touching property taxes, those vacant parcels would need to carry the load through higher fees. Here’s what that looks like:
 
-![Required Vacant Building Fee to Cover St. Paul’s 5.9% Shortfall](st_paul_vacant_building_fee_graph.png)
+![Required Vacant Building Fee to Cover St. Paul’s 5.9% Shortfall]({{ '/assets/images/st_paul_vacant_building_fee_graph.png' | relative_url }})
 
 The chart shows how high the vacant lot fee would need to be, depending on how accurate my parcel count is.
 
 - If I perfectly counted all 1,339 parcels (100% on the right), each lot would need to pay about $7,920 annually — nearly 3x the minimum fee.  
 - If I over counted by half (only about 700 real vacant parcels), the required fee would jump to nearly $16,000 per parcel — almost 6x higher than the minimum.  
-- If we took the $7,920 fee and added it on top of the $439 average tax that vacant parcels are paying now, they would pay roughly $8,359, which would only move the vacant parcels up three spots from the bottom in terms of average taxes from the table above.
+- If we took the \$7,920 fee and added it on top of the $439 average tax that vacant parcels are paying now, they would pay roughly \$8,359, which would only move the vacant parcels up three spots from the bottom in terms of average taxes from the table above.
 
 ## Big Picture
 
