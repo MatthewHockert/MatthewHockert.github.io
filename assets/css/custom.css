@@ -1,32 +1,40 @@
-/* Center the main content like a Substack article */
-.page, .page__content, .post, .post__content, .main, .main__content {
-  max-width: 720px;
-  margin: 0 auto;
-  padding: 2rem 1.25rem;
-  line-height: 1.7;
+/* Force a narrower reading width for blog posts and pages */
+.page__content,
+.post__content {
+  max-width: 750px !important;
+  margin: 0 auto !important;
+  padding: 2rem 1rem !important;
   font-size: 1.05em;
+  line-height: 1.7;
 }
 
-/* Make headings consistent and not too wide */
-.page__content h1, .page__content h2, .page__content h3,
-.post__content h1, .post__content h2, .post__content h3 {
-  max-width: 720px;
-  margin-left: auto;
-  margin-right: auto;
+/* Center headings and make them match the body width */
+.page__content h1,
+.page__content h2,
+.page__content h3,
+.post__content h1,
+.post__content h2,
+.post__content h3 {
+  max-width: 750px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
 }
 
-/* Keep images readable, centered, and not huge */
-.page__content img, .post__content img {
+/* Center and scale images */
+.page__content img,
+.post__content img {
   display: block;
-  margin: 2rem auto;
-  max-width: 100%;
+  margin: 2rem auto !important;
+  max-width: 100% !important;
+  height: auto !important;
   border-radius: 8px;
-  box-shadow: 0 0 8px rgba(0,0,0,0.1);
 }
 
-/* Make code snippets and tables match the narrow layout */
-.page__content pre, .post__content pre,
-.page__content table, .post__content table {
-  max-width: 100%;
-  margin: 1.5rem auto;
+/* Keep tables and code blocks inside the text column */
+.page__content table,
+.post__content table,
+.page__content pre,
+.post__content pre {
+  max-width: 100% !important;
+  margin: 1.5rem auto !important;
 }
