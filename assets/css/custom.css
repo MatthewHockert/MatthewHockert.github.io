@@ -1,0 +1,19 @@
+/* Limit overall post width */
+.page, .page__content, .post, .post__content, .main, .main__content {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 0 1.25rem;
+  }
+  
+  /* Adjust line length and readability */
+  .page__content p, .post__content p {
+    line-height: 1.6;
+    font-size: 1.05em;
+  }
+  
+  /* Optional: constrain wide images */
+  .page__content img, .post__content img {
+    max-width: 100%;
+    border-radius: 6px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  }
