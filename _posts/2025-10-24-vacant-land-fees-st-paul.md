@@ -38,7 +38,7 @@ According to the City of St. Paul, property owners must register vacant or unocc
 Under the Saint Paul Legislative Code, [Section 43.02](https://library.municode.com/mn/st._paul/codes/code_of_ordinances?nodeId=PTIILECO_TITVIBUHO_CH43VABU_S43.03VABURE), owners of registered vacant buildings are required to pay an annual registration fee. The fee is designed to recover the city’s administrative and enforcement costs associated with monitoring these properties. In this post, I am creating a hypothetical world where we can use these fees to offset the budgetary shortfall and not have to use the fees in the traditional way. The fee schedule is structured by category as follows:
 
 - Category I: $2,705 per year  
-- Category II: \$2,705 in the first year and \$5,410 per year thereafter  
+- Category II: &#36;2,705 in the first year and &#36;5,410 per year thereafter
 - Category III: $5,410 per year
 
 ## Crunching the Numbers
