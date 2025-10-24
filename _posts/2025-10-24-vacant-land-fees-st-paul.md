@@ -1,6 +1,9 @@
-# What If St. Paul Made Vacant Landowners Pay for the Budget Shortfall?
-**Author:** Matthew Hockert  
-**Date:** \today
+---
+layout: post
+title: "What If St. Paul Made Vacant Landowners Pay for the Budget Shortfall?"
+date: 2025-10-24
+description: "A hypothetical fiscal simulation for St. Paul exploring how vacant property fees could replace a tax levy increase."
+---
 
 A while back I was reading the Axios Twin Cities newsletter and its reporting on the proposed budget from St. Paul Mayor Melvin Carter that he argues avoids layoffs of city workers but raises the property tax levy by 5.3%. The plan comes as the city faces a $23 million deficit heading into 2026.
 
