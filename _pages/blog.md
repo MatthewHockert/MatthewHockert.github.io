@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Blog"
 permalink: /blog/
 author_profile: true
@@ -14,9 +14,9 @@ author_profile: true
 <hr>
 
 {% for post in site.posts %}
-  <article class="post-preview">
+  <article>
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+    <p><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
     <p>{{ post.excerpt }}</p>
   </article>
 {% endfor %}
