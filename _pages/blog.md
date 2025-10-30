@@ -1,18 +1,20 @@
 ---
 layout: single
 title: "Blog"
-permalink: /blog/index.html
+permalink: /blog/
 author_profile: true
 ---
 
 <h2>Featured Publication</h2>
 <p>
   <a href="https://www.cts.umn.edu/ao/accountabilitythroughaccessibility/executivesummary" target="_blank" rel="noopener">
-    Accountability Through Accessibility – Executive Summary
-  </a>
+    <strong>Accountability Through Accessibility – Executive Summary</strong>
+  </a><br>
+  <em>My paper "Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior" was summarized into a white paper exploring how transportation accessibility affects property values in St. Croix County, WI.</em>
 </p>
 <hr>
 
+<h2>My Writing</h2>
 {% for post in site.posts %}
   <article>
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
