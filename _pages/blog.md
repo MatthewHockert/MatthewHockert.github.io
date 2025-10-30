@@ -10,7 +10,8 @@ author_profile: true
   <a href="https://www.cts.umn.edu/ao/accountabilitythroughaccessibility/executivesummary" target="_blank" rel="noopener">
     <strong>Accountability Through Accessibility – Executive Summary</strong>
   </a><br>
-  <em>My paper "Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior" was summarized into a white paper exploring how transportation accessibility affects property values in St. Croix County, WI.</em>
+  <em>My paper "Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior" was summarized into a white paper which includes all work done by my coworkers at the at the
+  <a href="https://www.cts.umn.edu/programs/ao" target="_blank" rel="noopener">Accessibility Observatory</a>.</em>
 </p>
 <hr>
 
