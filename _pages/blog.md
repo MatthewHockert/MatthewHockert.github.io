@@ -19,6 +19,10 @@ author_profile: true
   <article>
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
     <p><small>{{ post.date | date: "%B %d, %Y" }}</small></p>
-    <p>{{ post.excerpt }}</p>
+    {% if post.summary %}
+      <p>{{ post.summary }}</p>
+    {% else %}
+      <p>{{ post.excerpt }}</p>
+    {% endif %}
   </article>
 {% endfor %}

@@ -13,5 +13,5 @@ summary: "A thought experiment on shifting property tax burdens toward vacant la
 </iframe>
 
 <p style="text-align:center; margin-top:1em; font-size:0.9em;">
-<a href="{{ '/files/vacant_land_fees_st_paul-6.pdf' | relative_url }}" target="_blank">Open in a new tab</a>
+  <a href="{{ '/files/vacant_land_fees_st_paul-6.pdf' | relative_url }}" target="_blank">Open in a new tab</a>
 </p>
