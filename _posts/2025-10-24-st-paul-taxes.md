@@ -3,6 +3,7 @@ layout: post
 title: "What If St. Paul Made Vacant Landowners Pay for the Budget Shortfall?"
 date: 2025-10-24
 summary: "A thought experiment on shifting property tax burdens toward vacant landowners to address St. Paul’s projected deficit."
+tags: [important]
 ---
 
 <iframe
