@@ -1,0 +1,16 @@
+# Jekyll build output
+_site/
+
+# Ruby dependencies
+vendor/
+.bundle/
+
+# Caches
+.sass-cache/
+.jekyll-cache/
+
+# Lockfile (optional if deploying on GitHub Pages)
+Gemfile.lock
+
+# System files
+.DS_Store
