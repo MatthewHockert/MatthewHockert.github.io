@@ -3,31 +3,14 @@ layout: default
 ---
 
 <div id="main" role="main">
-  {% if page.sidebar %}
-    {% include sidebar.html %}
-  {% endif %}
-
+  {% include sidebar.html %}
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
     <div class="page__inner-wrap">
       <header>
         <h1 class="page__title">{{ page.title | default: site.title }}</h1>
       </header>
-
       <section class="page__content" itemprop="text">
         {{ content }}
-      </section>
-
-      <section class="page__content">
-        <h2>Recent Highlights</h2>
-        <ul>
-          {% assign featured = site.posts | where_exp: "post", "post.tags contains 'important'" | sort: 'date' | reverse %}
-          {% for post in featured limit: 3 %}
-            <li>
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-              <small>({{ post.date | date: "%b %d, %Y" }})</small>
-            </li>
-          {% endfor %}
-        </ul>
       </section>
     </div>
   </article>

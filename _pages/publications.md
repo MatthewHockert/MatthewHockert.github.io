@@ -35,9 +35,22 @@ As I begin the publishing and public sharing phase of my research you'll be able
 
 ---
 
+
 ## Publications
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+    {% include archive-single.html %}
 {% endfor %}
+
+## Featured Publication
+
+<p>
+  <a href="https://www.cts.umn.edu/ao/accountabilitythroughaccessibility/executivesummary" target="_blank" rel="noopener">
+    <strong>Accountability Through Accessibility – Measuring What Matters for Departments of Transportation</strong>
+  </a><br>
+  <em>My paper "Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior" was summarized into a white paper which includes work done by my coworkers at the
+  <a href="https://www.cts.umn.edu/programs/ao" target="_blank" rel="noopener">Accessibility Observatory</a>.</em>
+</p>
+<hr>
+
 
