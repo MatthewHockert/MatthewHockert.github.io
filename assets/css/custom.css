@@ -52,7 +52,7 @@ a {
 
 a:hover {
   color: #0078ff;
-  border-bottom: 1px solid #0078ff;
+  border-bottom: 1px none #005bc2;
 }
 
 /* Headings */
@@ -60,14 +60,16 @@ h1, h2, h3 {
   transition: color 0.3s ease;
 }
 
-h1:hover, h2:hover, h3:hover {
-  color: #0078ff;
+h1 a:hover,
+h2 a:hover,
+h3 a:hover {
+  border-bottom: 1px none #0078ff !important;
 }
 
 /* Subtle arrow animation */
 h2:hover::after {
-  content: " →";
-  transition: all 0.3s ease;
+  content: " *";
+  transition: all 0.1s ease;
   color: #0078ff;
 }
 
@@ -90,4 +92,59 @@ h2 {
   border-bottom: 2px solid #e6e6e6;
   padding-bottom: 0.2em;
   margin-bottom: 0.8em;
+}
+/* Fix white strip inside header */
+.masthead__inner-wrap {
+  background-color: #1c1c1c !important; /* same as header */
+  color: #cccccc !important;
+}
+
+/* Ensure nav text stays visible */
+.masthead__menu-item a,
+.site-title {
+  color: #cccccc !important;
+}
+
+.masthead__menu-item a:hover,
+.site-title:hover {
+  color: #ffffff !important;
+}
+
+/* full-width dark masthead */
+.masthead {
+  background: #fafafa !important;
+  border-bottom: none !important;
+}
+
+/* kill the centered white box */
+.masthead__inner-wrap {
+  background: transparent !important;
+  max-width: 100% !important;
+  margin: 0 !important;
+  padding: 0.5rem 1.5rem !important;
+}
+
+/* the actual nav bar that was still white */
+.greedy-nav {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+/* links */
+.masthead__menu-item a,
+.masthead__menu-item--lg > a,
+.site-title {
+  color: #000000 !important;
+}
+
+/* hover + active */
+.masthead__menu-item a:hover,
+.masthead__menu-item a:focus,
+.masthead__menu-item a:active {
+  color: #011e3a !important;
+}
+
+/* optional: keep the page content from touching the top */
+.page, .page__inner-wrap {
+  background: transparent;
 }
