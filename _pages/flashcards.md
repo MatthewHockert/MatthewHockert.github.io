@@ -8,7 +8,7 @@ nav: true
 
 ## Anki Flashcards
 
-During my PhD, I relied heavily on Anki flashcards as a core study tool, particularly for theory-heavy and methods-intensive material. I’m sharing a subset of the decks I built below.
+During my PhD, I relied heavily on Anki flashcards as a core study tool. I’m sharing a subset of the decks I built below.
 
 ### Available Decks
 
@@ -16,6 +16,7 @@ During my PhD, I relied heavily on Anki flashcards as a core study tool, particu
   Core microeconomic theory concepts typically covered in first-year PhD coursework.
 
 - **[Difference-in-Differences Flashcards](/files/Difference-in-Differences.apkg)**  
+<small>
   Cards focus heavily on modern DiD methods (staggered and continuous frameworks) and identification issues.
 
   This deck is primarily inspired by:
@@ -26,3 +27,4 @@ During my PhD, I relied heavily on Anki flashcards as a core study tool, particu
   - De Chaisemartin, C., & d’Haultfoeuille, X. (2023).  
     *Two-Way Fixed Effects and Difference-in-Differences Estimators with Heterogeneous Treatment Effects and Imperfect Parallel Trends*. SSRN.  
     https://doi.org/10.2139/ssrn.4487202
+</small>
