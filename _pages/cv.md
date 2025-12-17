@@ -7,6 +7,19 @@ redirect_from:
   - /resume
 ---
 
+<iframe
+  src="/files/Matthew Hockert - Curriculum Vitae.pdf"
+  width="100%"
+  height="900px"
+  style="border: none;"
+></iframe>
+
+<p>
+  <a href="/files/Matthew Hockert - Curriculum Vitae.pdf" target="_blank">
+    Download CV (PDF)
+  </a>
+</p>
+
 You can download my CV [here](/files/Matthew%20Hockert%20-%20Curriculum%20Vitae.pdf)
 
 ## Contact Information
