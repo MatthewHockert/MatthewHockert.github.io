@@ -17,7 +17,7 @@ During my PhD, I relied heavily on Anki flashcards as a core study tool. I’m s
 
 - **[Difference-in-Differences Flashcards](/files/Difference-in-Differences.apkg)**  
 
-<small>
+<div style="font-size: 0.85em; color: #555;">
 
 Focused on modern DiD methods, identification issues, and estimator comparisons.
 
@@ -31,4 +31,4 @@ This deck is primarily inspired by:
   *Two-Way Fixed Effects and Difference-in-Differences Estimators with Heterogeneous Treatment Effects and Imperfect Parallel Trends*. SSRN.  
   https://doi.org/10.2139/ssrn.4487202
 
-</small>
+</div>
