@@ -44,8 +44,8 @@ PhD Student in Applied Economics · University of Minnesota<br>
   - Staggered DiD on 550K residential parcels; estimates property tax and value spillovers from nearby easements.
 - **"Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior"**
   - IV-DiD exploiting a bridge opening; decomposes accessibility capitalization into land vs. improvement values.
-- **"Does Rent Control Capitalize into Land Values? A Diff-in-Discontinuity Test Using New Jersey's 30-Year Exemption Cutoff"**
-  - RD on parcel-level tax assessor data across 68 cities; finds 93% land value premium from rent control exemptions.
+- **"Rent Control Capitalization into Land Values: Evidence from New Jersey's New Construction Exemption"**
+  - Triple-difference design on 2024 assessed values exploiting New Jersey's New Construction Exemption (a rent-control exemption for newly built 4+ unit buildings); finds a 54% land value premium, concentrated in land with no effect on structures.
 
 ***Additional Research***
 

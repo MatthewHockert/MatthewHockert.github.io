@@ -24,8 +24,9 @@ I am developing several research papers as part of my dissertation and related p
   - IV–difference-in-differences exploiting a bridge opening; decomposes accessibility capitalization into land vs. improvement values.
   - Developed with Eric Lind at the [Accessibility Observatory](https://www.cts.umn.edu/programs/ao) using in-house data. Presented at the Transportation Research Board Annual Meeting (2026) and the CTS Transportation Research Conference (2025).
 
-- **Does Rent Control Capitalize into Land Values? A Diff-in-Discontinuity Test Using New Jersey's 30-Year Exemption Cutoff**
-  - Regression discontinuity on parcel-level tax assessor data across 68 cities; finds a 93% land value premium from rent control exemptions.
+- **Rent Control Capitalization into Land Values: Evidence from New Jersey's New Construction Exemption**
+  - Triple-difference design on 2024 assessed values exploiting New Jersey's New Construction Exemption (a rent-control exemption for newly built 4+ unit buildings); finds a 54% land value premium, concentrated in land with no effect on structures.
+  - Draft (April 2026) — [PDF]({{ '/files/rent-control-capitalization.pdf' | relative_url }}) · comments welcome.
 
 ### Additional Research
 
