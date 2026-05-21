@@ -48,6 +48,8 @@ PhD Student in Applied Economics · University of Minnesota<br>
   - IV-DiD exploiting a bridge opening; decomposes accessibility capitalization into land vs. improvement values.
 - **"Rent Control Capitalization into Land Values: Evidence from New Jersey's New Construction Exemption"**
   - Triple-difference design on 2024 assessed values exploiting New Jersey's New Construction Exemption (a rent-control exemption for newly built 4+ unit buildings); finds a 54% land value premium, concentrated in land with no effect on structures.
+- **"When Do Local Income Taxes Cause Residential Sorting? Evidence from Pennsylvania's Piecewise Earned Income Tax"**
+  - Continuous stacked difference-in-differences on LEHD/LODES worker flows (2002–2019) exploiting the piecewise "max-rule" of Pennsylvania's local Earned Income Tax; a binding decomposition isolates rate changes that move a worker's bill and finds residential sorting away from binding municipal increases.
 
 ***Additional Research***
 

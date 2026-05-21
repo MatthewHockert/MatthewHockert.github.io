@@ -28,6 +28,9 @@ I am developing several research papers as part of my dissertation and related p
   - Triple-difference design on 2024 assessed values exploiting New Jersey's New Construction Exemption (a rent-control exemption for newly built 4+ unit buildings); finds a 54% land value premium, concentrated in land with no effect on structures.
   - Draft (May 2026) — [PDF]({{ '/files/rent-control-capitalization.pdf' | relative_url }})
 
+- **When Do Local Income Taxes Cause Residential Sorting? Evidence from Pennsylvania's Piecewise Earned Income Tax**
+  - Continuous stacked difference-in-differences on LEHD/LODES worker flows (2002–2019) exploiting the piecewise "max-rule" of Pennsylvania's local Earned Income Tax; a binding decomposition isolates rate changes that move a worker's bill and finds residential sorting away from binding municipal increases.
+
 ### Additional Research
 
 - **Restrictive Rules, Restrained Housing: Rent Control Policies and Their Local Impacts**
