@@ -11,27 +11,28 @@ author_profile: true
 
 {% include base_path %}
 
-## Works in Progress  
+## Works in Progress
 
-I am currently developing several research papers as part of my dissertation and related projects. These works are ongoing and represent different stages of the research process — from data collection and model design to drafting and presentation.  
+I am developing several research papers as part of my dissertation and related projects. These works span different stages of the research process — from data collection and model design to drafting and presentation.
 
-- **Conservation and Externalities: The Effect of Conservation Easements on Neighboring Residential Parcels**  
-  - Examines the spillover effects of conservation easements on neighboring property values and municipal tax bases in Hennepin County, MN.  
-  - First full draft completed; currently under revision.  
+### Dissertation Papers
 
-- **Rent Control and Housing Supply: Evidence from a Staggered Difference-in-Differences Approach**  
-  - Investigates the impact of rent control adoption on permitting and housing supply across U.S. cities.  
-  - Preliminary models completed; refining analysis and drafting.  
+- **Conservation and Externalities: The Effect of Conservation Easements on Neighboring Residential Parcels**
+  - Staggered difference-in-differences on 550K residential parcels; estimates property tax and value spillovers from nearby easements.
 
-- **Measuring Rent Control Intensity with Natural Language Processing and Generative Models**  
-  - Uses municipal codes and NLP/AI techniques to create new indices of rent control restrictiveness across U.S. cities.  
-  - Data collection and measurement framework in progress.  
+- **Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior**
+  - IV–difference-in-differences exploiting a bridge opening; decomposes accessibility capitalization into land vs. improvement values.
+  - Developed with Eric Lind at the [Accessibility Observatory](https://www.cts.umn.edu/programs/ao) using in-house data. Presented at the Transportation Research Board Annual Meeting (2026) and the CTS Transportation Research Conference (2025).
 
-- **Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior**  
-  - Explores how infrastructure expansion reshapes accessibility, land use, and housing markets.  
-  - Developed with Eric Lind at the [Accessibility Observatory](https://www.cts.umn.edu/programs/ao) using in-house data. Submitted for presentation; preparing for public release.  
+- **Does Rent Control Capitalize into Land Values? A Diff-in-Discontinuity Test Using New Jersey's 30-Year Exemption Cutoff**
+  - Regression discontinuity on parcel-level tax assessor data across 68 cities; finds a 93% land value premium from rent control exemptions.
 
-As I begin the publishing and public sharing phase of my research you'll be able to find the code to my projects on my [github](https://github.com/MatthewHockert). 
+### Additional Research
+
+- **Restrictive Rules, Restrained Housing: Rent Control Policies and Their Local Impacts**
+  - Developed an LLM-based algorithm to extract and classify rent control ordinances across 35 variables from municipal codes spanning 111 New Jersey jurisdictions.
+
+As I begin the publishing and public sharing phase of my research, you'll be able to find the code for my projects on my [GitHub](https://github.com/MatthewHockert).
 
 ---
 
@@ -52,5 +53,3 @@ As I begin the publishing and public sharing phase of my research you'll be able
   <a href="https://www.cts.umn.edu/programs/ao" target="_blank" rel="noopener">Accessibility Observatory</a>.</em>
 </p>
 <hr>
-
-
