@@ -30,6 +30,7 @@ I am developing several research papers as part of my dissertation and related p
 
 - **When Do Local Income Taxes Cause Residential Sorting? Evidence from Pennsylvania's Piecewise Earned Income Tax**
   - Continuous stacked difference-in-differences on LEHD/LODES worker flows (2002–2019) exploiting the piecewise "max-rule" of Pennsylvania's local Earned Income Tax; a binding decomposition isolates rate changes that move a worker's bill and finds residential sorting away from binding municipal increases.
+  - Draft (May 2026) — [PDF]({{ '/files/local-income-tax-sorting.pdf' | relative_url }})
 
 ### Additional Research
 
