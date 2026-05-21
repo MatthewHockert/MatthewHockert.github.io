@@ -153,9 +153,9 @@ h2 {
    Substack-style reading layout (blog posts only)
    Scoped to .post-reading so academic pages are unaffected.
    ========================================================= */
-.post-reading {
-  max-width: 680px;
-  margin: 0 auto;
+#main.post-reading {
+  max-width: 680px !important;
+  margin: 0 auto !important;
   padding: 2.75rem 1.25rem 4.5rem;
 }
 .post-reading .page,
