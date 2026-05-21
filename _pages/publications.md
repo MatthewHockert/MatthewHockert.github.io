@@ -26,7 +26,7 @@ I am developing several research papers as part of my dissertation and related p
 
 - **Rent Control Capitalization into Land Values: Evidence from New Jersey's New Construction Exemption**
   - Triple-difference design on 2024 assessed values exploiting New Jersey's New Construction Exemption (a rent-control exemption for newly built 4+ unit buildings); finds a 54% land value premium, concentrated in land with no effect on structures.
-  - Draft (April 2026) — [PDF]({{ '/files/rent-control-capitalization.pdf' | relative_url }})
+  - Draft (May 2026) — [PDF]({{ '/files/rent-control-capitalization.pdf' | relative_url }})
 
 ### Additional Research
 
