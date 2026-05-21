@@ -3,6 +3,9 @@ layout: home
 author_profile: true
 title: "Matthew Hockert"
 permalink: /
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 Welcome to my website!

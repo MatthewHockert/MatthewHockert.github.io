@@ -47,6 +47,7 @@ author:
   bio              : "PhD Student in Applied Economics"
   location         : #"St.Paul, Minnesota"
   employer         :
+  email            : "matthew.hockert@gmail.com"
   googlescholar    : "https://scholar.google.com/citations?user=WNQSL0kAAAAJ&hl=en"
   github           : "MatthewHockert"
   linkedin         : "matthewhockert"
@@ -142,19 +143,7 @@ defaults:
       author_profile: true
       share: true
 
-nav:
-  - title: "Home"
-    url: /
-  - title: "Projects"
-    url: /projects/
-  - title: "Blog"
-    url: /blog/
-  - title: "Data"
-    url: /data/
-  - title: "Flashcards"
-    url: /flashcards/
-  - title: "CV"
-    url: /cv/
+# Navigation menu is defined in _data/navigation.yml (theme reads `main:` from there).
 
 # Sass/SCSS
 sass:
