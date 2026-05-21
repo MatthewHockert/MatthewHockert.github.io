@@ -24,20 +24,17 @@ PhD Student in Applied Economics · University of Minnesota<br>
 
 **PhD in Applied Economics**, University of Minnesota, Minneapolis, MN — *September 2022 – Present*
 - Fourth-year student (2025–2026). Advisor: Elizabeth Davis.
-- Fields: Labor and Population Economics, Policy Analysis.
-- Research: Land Use, Housing, Transportation, Public Finance.
-- Methods: Difference-in-Differences, Regression Discontinuity, Spatial Econometrics.
+- Research Fields: Land Use, Housing, Transportation, Public Finance.
+- Methods: Spatial econometrics, causal inference (DiD, RD, IV), forecasting.
 
 **Master of Science in Applied Economics**, University of Minnesota, Minneapolis, MN — *September 2020 – June 2024*
 - Graduate minor in Data Science.
   - Courses: Machine Learning Fundamentals, Principles of Database Systems, Theory of Statistics.
 - Thesis: "A Spatial Approach to Agrifood Supply Chain Structure" (Advisor: Hikaru Peterson).
 - Recipient of the UMN Applied Economics MS Thesis Award, 2024–25.
-- Selected Paper Presenter at the Agricultural & Applied Economics Association (AAEA) Annual Meeting, 2023.
 
 **B.A. in Economics and Political Science**, University of Minnesota Duluth — *2017 – 2020*
-- GPA: 3.7/4.0. *Cum Laude*.
-- University Honors Program, Dean's List, Economics Department Honors, Omicron Delta Epsilon.
+- GPA: 3.7/4.0. *Cum Laude*. University Honors Program, Dean's List.
 
 ## Works in Progress
 
@@ -65,22 +62,22 @@ PhD Student in Applied Economics · University of Minnesota<br>
 - Administered surveys and managed data using Survey123.
 
 **Graduate Research Assistant**, Accessibility Observatory, University of Minnesota, Minneapolis, MN — *September 2022 – Present*
-- Wrote Python and SQL scripts for the National Accessibility Evaluation (NAE) to pull and aggregate weighted-average multimodal accessibility measures (bike, car, transit) from block to state level across the U.S.
-- Built R scripts using OpenStreetMap network data and the R5 routing engine to calculate ambulance response and transport times to Level I–III trauma centers for every highway segment in rural Minnesota.
-- Presented findings at the CTS Transportation Research Conference and published in an Accessibility Observatory StoryMap.
-- Built additional data pipelines for ad hoc deliverables for local government organizations and state Departments of Transportation.
+- Developed a Python pipeline to ingest data from AWS, clean it, and produce weighted-average job accessibility measures from block to state level across the U.S.
+- Created public datasets on multimodal transportation accessibility (bike, car, transit) using Pandas and SQL.
+- Built additional data pipelines for ad hoc deliverables for the Metropolitan Council and state Departments of Transportation.
+- Developed an R Shiny application with Leaflet to display national job accessibility from block group to state level.
 
 **Data Science Intern**, Federal Reserve Bank of Minneapolis, Minneapolis, MN — *June 2022 – March 2024*
-- Converted Stress Testing production code from MATLAB to R, building forecasting models (VAR, Kalman Filter) for assessing bank resiliency against macroeconomic shocks.
-- Analyzed U.S. banking conditions under the CECL policy and presented findings to examiners and supervisors.
-- Built R Shiny applications incorporating risk models to identify bank risk levels by loan and asset type.
+- Built forecasting models (VAR, Kalman Filter) for macroeconomic stress testing, assessing bank resiliency against economic shocks.
+- Converted Stress Testing production code from MATLAB to R following software development best practices.
+- Built R Shiny applications incorporating predictive risk models to identify bank risk levels by loan and asset type.
 - Investigated changes in rural banking quality and agricultural output in the Ninth District.
 - Created an R Shiny dashboard using Census ACS and Federal Reserve data to compare county-level economic and banking conditions.
+- Presented analysis of U.S. banking conditions under the CECL policy to examiners and supervisors.
 
 **Graduate Research Assistant**, Foodshed – Agricultural Commodities Project, University of Minnesota, Minneapolis, MN — *September 2020 – 2022*
 - Examined regional food system resiliency during the COVID-19 pandemic using OLS and spatial regression models in R.
 - Built a comprehensive dataset integrating Census and IMPLAN data.
-- Conducted literature review for future publication.
 
 **Undergraduate Research Assistant**, Bureau of Business and Economic Research, University of Minnesota Duluth — *September 2019 – May 2020*
 - Performed local economic data analysis using IMPLAN, Excel, and SPSS.
@@ -99,10 +96,11 @@ PhD Student in Applied Economics · University of Minnesota<br>
 | | |
 |---|---|
 | **Programming** | R, Python, SQL |
+| **ML & Statistics** | Forecasting (VAR, Kalman Filter), spatial regression, panel data methods, causal inference |
+| **Data & Cloud** | AWS (S3, EC2), DBeaver, Pandas, Linux |
+| **AI Tools** | Large language models for data extraction and classification |
 | **Geospatial** | QGIS, ArcGIS |
-| **Data & Cloud** | AWS (S3, EC2), DBeaver, Linux |
 | **Visualization** | Tableau, R Shiny, Leaflet |
-| **Survey** | Qualtrics, Survey123 |
 | **Version Control** | Git, GitHub, GitLab |
 
 ## Honors and Awards
