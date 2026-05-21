@@ -148,3 +148,136 @@ h2 {
 .page, .page__inner-wrap {
   background: transparent;
 }
+
+/* =========================================================
+   Substack-style reading layout (blog posts only)
+   Scoped to .post-reading so academic pages are unaffected.
+   ========================================================= */
+.post-reading {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 2.75rem 1.25rem 4.5rem;
+}
+.post-reading .page,
+.post-reading .page__inner-wrap {
+  float: none;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header: title, dek, byline */
+.post-header { margin-bottom: 1.25rem; }
+.post-title {
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 1.18;
+  letter-spacing: -0.012em;
+  color: #1a1a1a;
+  margin: 0 0 0.65rem;
+  border: none !important;
+  padding: 0 !important;
+  max-width: none !important;
+  text-align: left !important;
+}
+.post-dek {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1.3rem;
+  line-height: 1.45;
+  color: #5a5a5a;
+  font-weight: 400;
+  margin: 0 0 1.5rem;
+}
+.post-byline {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.post-byline__avatar {
+  width: 46px;
+  height: 46px;
+  border-radius: 50% !important;
+  object-fit: cover;
+  margin: 0 !important;
+  box-shadow: none;
+}
+.post-byline__meta { display: flex; flex-direction: column; line-height: 1.35; }
+.post-byline__name { font-weight: 600; color: #222; }
+.post-byline__sub  { color: #777; font-size: 0.9rem; }
+
+.post-rule {
+  border: none;
+  border-top: 1px solid #e8e8e8;
+  margin: 1.25rem 0 2.25rem;
+}
+
+/* Body: serif, generous measure */
+.post-body.page__content {
+  max-width: 680px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  font-family: "Source Serif 4", Georgia, "Times New Roman", serif;
+  font-size: 1.25rem;
+  line-height: 1.75;
+  color: #242424;
+}
+.post-body p { margin: 0 0 1.5rem; }
+
+/* Subheads: clean, no underline rule or hover glyph */
+.post-body h2,
+.post-body h3 {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 700;
+  color: #1a1a1a;
+  border: none !important;
+  padding: 0 !important;
+  max-width: none !important;
+  margin: 2.5rem 0 0.75rem !important;
+  text-align: left !important;
+}
+.post-body h2 { font-size: 1.65rem; }
+.post-body h3 { font-size: 1.32rem; }
+.post-body h2:hover::after { content: none !important; }
+
+/* Figures */
+.post-body figure { margin: 2.25rem 0; text-align: center; }
+.post-body figure img { margin: 0 auto !important; border-radius: 4px; }
+.post-body figcaption {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  font-size: 0.85rem;
+  color: #8a8a8a;
+  margin-top: 0.6rem;
+}
+
+/* Quotes, tables, disclaimer */
+.post-body blockquote {
+  border-left: 3px solid #ddd;
+  padding-left: 1.1rem;
+  margin: 1.5rem 0;
+  color: #555;
+  font-style: italic;
+}
+.post-body table { font-size: 1rem; }
+.post-body .post-disclaimer {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  font-size: 0.9rem;
+  font-style: italic;
+  color: #888;
+  margin-bottom: 2rem;
+}
+
+/* Links */
+.post-body a {
+  color: #0056b3;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  text-decoration-thickness: 1px;
+}
+.post-body a:hover { color: #0078ff; }
+
+@media (max-width: 600px) {
+  .post-title { font-size: 2rem; }
+  .post-dek { font-size: 1.15rem; }
+  .post-body.page__content { font-size: 1.15rem; }
+}
