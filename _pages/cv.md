@@ -43,18 +43,21 @@ PhD Student in Applied Economics · University of Minnesota<br>
 ***Dissertation Papers***
 
 - **"Conservation and Externalities: The Effect of Conservation Easements on Neighboring Residential Parcels"**
-  - Staggered DiD on 550K residential parcels; estimates property tax and value spillovers from nearby easements.
+  - Staggered difference-in-differences design on 550K residential parcels to estimate the trade-off between lost tax capacity from easements and the market value spillovers from those nearby easements.
 - **"Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior"**
-  - IV-DiD exploiting a bridge opening; decomposes accessibility capitalization into land vs. improvement values.
+  - IV–difference-in-differences design to estimate the impact of the St. Croix Bridge opening on access and how that access capitalizes into higher land and improvement values.
+  - Written with Eric Lind at the Accessibility Observatory using in-house access data.
 - **"Rent Control Capitalization into Land Values: Evidence from New Jersey's New Construction Exemption"**
-  - Triple-difference design on 2024 assessed values exploiting New Jersey's New Construction Exemption (a rent-control exemption for newly built 4+ unit buildings); finds a 54% land value premium, concentrated in land with no effect on structures.
+  - Triple-difference design on 2024 assessed values exploiting New Jersey's New Construction Exemption, which permitted newly built 4+ unit buildings to be excluded from the city's rent control ordinance.
+  - I find a 54% land value premium and no effect on the buildings.
 - **"When Do Local Income Taxes Cause Residential Sorting? Evidence from Pennsylvania's Piecewise Earned Income Tax"**
-  - Continuous stacked difference-in-differences on LEHD/LODES worker flows (2002–2019) exploiting the piecewise "max-rule" of Pennsylvania's local Earned Income Tax; a binding decomposition isolates rate changes that move a worker's bill and finds residential sorting away from binding municipal increases.
+  - Continuous stacked difference-in-differences on LEHD/LODES worker flows (2002–2019) identifying a causal effect from Pennsylvania's piecewise local Earned Income Tax.
+  - I introduce a binding decomposition that isolates the rate changes which move a worker's tax bill, and find residential sorting away from binding municipal increases.
 
 ***Additional Research***
 
 - **"Restrictive Rules, Restrained Housing: Rent Control Policies and Their Local Impacts"**
-  - Developed LLM-based algorithm to extract and classify rent control ordinances across 35 variables from municipal codes spanning 111 New Jersey jurisdictions.
+  - Developing an LLM-based algorithm to extract and classify rent control ordinances across 35 variables from municipal codes spanning 111 New Jersey jurisdictions.
 
 ## Research Experience
 
