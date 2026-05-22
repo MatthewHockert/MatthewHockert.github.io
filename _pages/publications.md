@@ -18,15 +18,15 @@ I am developing several research papers as part of my dissertation and related p
 ### Dissertation Papers
 
 - **Conservation and Externalities: The Effect of Conservation Easements on Neighboring Residential Parcels**
-  - Staggered difference-in-differences design on 550K residential parcels to estimates the trade-off between lost tax capacity from easements and the market value spillovers from those nearby easements.
+  - Staggered difference-in-differences design on 550K residential parcels to estimate the trade-off between lost tax capacity from easements and the market value spillovers from those nearby easements.
 
 - **Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior**
   - IV–difference-in-differences design to estimate the impact of the St. Croix Bridge opening on access and how that access capitalizes into higher land and improvement values.
-  - Wrote with Eric Lind at the [Accessibility Observatory](https://www.cts.umn.edu/programs/ao) using in-house data access data. 
+  - Wrote with Eric Lind at the [Accessibility Observatory](https://www.cts.umn.edu/programs/ao) using in-house access data.
   - Presented at the Transportation Research Board Annual Meeting (2026) and the CTS Transportation Research Conference (2025).
 
 - **Rent Control Capitalization into Land Values: Evidence from New Jersey's New Construction Exemption**
-  - Triple-difference design on 2024 assessed values exploiting New Jersey's New Construction Exemption. The law change permitted newly built 4+ unit buildings to be excluded from the cities rent control ordinance.
+  - Triple-difference design on 2024 assessed values exploiting New Jersey's New Construction Exemption. The law change permitted newly built 4+ unit buildings to be excluded from the city's rent control ordinance.
   - I find a 54% land value premium and no effect on the buildings.
   - Draft (May 2026) — [PDF]({{ '/files/rent-control-capitalization.pdf' | relative_url }})
 
@@ -35,7 +35,7 @@ I am developing several research papers as part of my dissertation and related p
   - Major contributions of the paper:
     - Municipal level income tax effects.
     - The binding decomposition that isolates rate changes that move a worker's tax bill above the worker tax.
- - I find that residential sorting away from binding municipal increases.
+  - I find residential sorting away from binding municipal increases.
   - Draft (May 2026) — [PDF]({{ '/files/local-income-tax-sorting.pdf' | relative_url }})
 
 ### Additional Research
