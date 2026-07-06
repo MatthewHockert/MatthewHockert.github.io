@@ -54,11 +54,6 @@ PhD Student in Applied Economics · University of Minnesota<br>
   - Continuous stacked difference-in-differences on LEHD/LODES worker flows (2002–2019) identifying a causal effect from Pennsylvania's piecewise local Earned Income Tax.
   - I introduce a binding decomposition that isolates the rate changes which move a worker's tax bill, and find residential sorting away from binding municipal increases.
 
-***Additional Research***
-
-- **"Restrictive Rules, Restrained Housing: Rent Control Policies and Their Local Impacts"**
-  - Developing an LLM-based algorithm to extract and classify rent control ordinances across 35 variables from municipal codes spanning 111 New Jersey jurisdictions.
-
 ## Research Experience
 
 **Conservation Economist – Intern II**, Hennepin County, Minneapolis, MN — *June 2024 – Present*

@@ -39,11 +39,6 @@ I am developing several research papers as part of my dissertation and related p
   - I find residential sorting away from binding municipal increases.
   - Draft (May 2026) — [PDF]({{ '/files/local-income-tax-sorting.pdf' | relative_url }})
 
-### Additional Research
-
-- **Restrictive Rules, Restrained Housing: Rent Control Policies and Their Local Impacts**
-  - Developing an LLM-based algorithm to extract and classify rent control ordinances across 35 variables from municipal codes spanning 111 New Jersey jurisdictions.
-
 As I begin the publishing and public sharing phase of my research, you'll be able to find the code for my projects on my [GitHub](https://github.com/MatthewHockert).
 
 ---
