@@ -49,7 +49,7 @@ PhD Student in Applied Economics · University of Minnesota<br>
   - Written with Eric Lind at the Accessibility Observatory using in-house access data.
 - **"Rent Control Capitalization into Land Values: Evidence from New Jersey's New Construction Exemption"**
   - Triple-difference design on 2024 assessed values exploiting New Jersey's New Construction Exemption, which permitted newly built 4+ unit buildings to be excluded from the city's rent control ordinance.
-  - I find a 54% land value premium and no effect on the buildings.
+  - I find a 4.7% land value premium concentrated in land, significant at all three legislative cutoffs (1987, 1992, 1997).
 - **"When Do Local Income Taxes Cause Residential Sorting? Evidence from Pennsylvania's Piecewise Earned Income Tax"**
   - Continuous stacked difference-in-differences on LEHD/LODES worker flows (2002–2019) identifying a causal effect from Pennsylvania's piecewise local Earned Income Tax.
   - I introduce a binding decomposition that isolates the rate changes which move a worker's tax bill, and find residential sorting away from binding municipal increases.
