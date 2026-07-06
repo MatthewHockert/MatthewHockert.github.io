@@ -13,7 +13,7 @@ author_profile: true
 
 ## Works in Progress
 
-I am developing several research papers as part of my dissertation and related projects. These works span different stages of the research process — from data collection and model design to drafting and presentation.
+My dissertation spans a range of topics around urban land use. You can find my works in progress below:
 
 ### Dissertation Papers
 
