@@ -23,8 +23,8 @@ My dissertation spans a range of topics around urban land use. You can find my w
     - Municipal level income tax effects.
     - The binding decomposition that isolates rate changes that move a worker's tax bill above the worker tax.
   - I find residential sorting away from binding municipal increases.
-  - Accepted to the North American Meetings of the Urban Economics Association (September 2026).
-  - Draft (May 2026) — [PDF]({{ '/files/local-income-tax-sorting.pdf' | relative_url }})
+  - Presented at the North American Meeting of the Urban Economics Association, Federal Reserve Bank of Chicago (September 26, 2026).
+  - Draft (September 2026) — [PDF]({{ '/files/local-income-tax-sorting.pdf' | relative_url }})
 
 - **Rent Control Capitalization into Land Values: Evidence from New Jersey's New Construction Exemption**
   - Triple-difference design on 2024 assessed values exploiting New Jersey's New Construction Exemption. The law change permitted newly built 4+ unit buildings to be excluded from the city's rent control ordinance.
