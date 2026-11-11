@@ -15,7 +15,7 @@ redirect_from:
   </a>
 </p>
 
-PhD Student in Applied Economics · University of Minnesota<br>
+PhD Candidate in Applied Economics · University of Minnesota · On the 2026–27 job market<br>
 [matthew.hockert@gmail.com](mailto:matthew.hockert@gmail.com) ·
 [matthewhockert.github.io](https://matthewhockert.github.io) ·
 [linkedin.com/in/matthewhockert](https://www.linkedin.com/in/matthewhockert/)
@@ -23,7 +23,8 @@ PhD Student in Applied Economics · University of Minnesota<br>
 ## Education
 
 **PhD in Applied Economics**, University of Minnesota, Minneapolis, MN — *September 2022 – Present*
-- Fourth-year student (2025–2026). Advisor: Elizabeth Davis.
+- All but dissertation (ABD), expected graduation December 2026.
+- Fifth-year student (2026–2027). Advisor: Elizabeth Davis.
 - Fields: Labor and Population Economics, Policy Analysis.
 - Research Fields: Land Use, Housing, Transportation, Public Finance.
 - Methods: Spatial econometrics, causal inference (DiD, RD, IV), forecasting.
@@ -45,7 +46,7 @@ PhD Student in Applied Economics · University of Minnesota<br>
 - **"When Do Local Income Taxes Cause Residential Sorting? Evidence from Pennsylvania's Piecewise Earned Income Tax"**
   - Continuous stacked difference-in-differences on LEHD/LODES worker flows (2002–2019) identifying a causal effect from Pennsylvania's piecewise local Earned Income Tax.
   - I introduce a binding decomposition that isolates the rate changes which move a worker's tax bill, and find residential sorting away from binding municipal increases.
-  - Accepted to the North American Meetings of the Urban Economics Association (September 2026).
+  - Presented at the 20th North American Meeting of the Urban Economics Association, Chicago, IL (September 2026).
 - **"Rent Control Capitalization into Land Values: Evidence from New Jersey's New Construction Exemption"**
   - Triple-difference design on 2024 assessed values exploiting New Jersey's New Construction Exemption, which permitted newly built 4+ unit buildings to be excluded from the city's rent control ordinance.
   - I find a 4.7% land value premium concentrated in land, significant at all three legislative cutoffs (1987, 1992, 1997).
@@ -64,7 +65,7 @@ PhD Student in Applied Economics · University of Minnesota<br>
 - Used R, QGIS, and ArcGIS to analyze spatial patterns in conservation and tax policy effects on property values.
 - Administered surveys and managed data using Survey123.
 
-**Graduate Research Assistant**, Accessibility Observatory, University of Minnesota, Minneapolis, MN — *September 2022 – Present*
+**Graduate Research Assistant**, Accessibility Observatory, University of Minnesota, Minneapolis, MN — *September 2022 – September 2026*
 - Developed a Python pipeline to ingest data from AWS, clean it, and produce weighted-average job accessibility measures from block to state level across the U.S.
 - Built R scripts using OpenStreetMap network data and the R5 routing engine to calculate ambulance response and transport times to Level I–III trauma centers for every highway segment in rural Minnesota.
 - Created public datasets on multimodal transportation accessibility (bike, car, transit) using Pandas and SQL.
@@ -90,6 +91,7 @@ PhD Student in Applied Economics · University of Minnesota<br>
 
 ## Presentations
 
+- "When Do Local Income Taxes Cause Residential Sorting? Evidence from Pennsylvania's Piecewise Earned Income Tax" — Selected Presenter, 20th North American Meeting of the Urban Economics Association (UEA), Chicago, IL, September 2026.
 - "Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior" — Transportation Research Board (TRB) Annual Meeting, Washington D.C., January 2026.
 - "Transportation Changes Land Use: How the St. Croix Bridge Shaped Accessibility, Housing Values, and Travel Behavior" — Transportation Research Conference, Center for Transportation Studies, October 2025.
 - "Calculating the Total Travel Time from Crash to Emergency Care in Rural Minnesota" — Transportation Research Conference, Center for Transportation Studies, November 2024.

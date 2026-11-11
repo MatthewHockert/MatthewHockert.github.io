@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matthew Hockert - Personal Website"
 title_separator          : "-"
 name                     : &name "Matthew Hockert"
-description              : &description "PhD student in Applied Economics at the University of Minnesota"
+description              : &description "PhD candidate in Applied Economics at the University of Minnesota"
 url                      : https://matthewhockert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matthewhockert/matthewhockert.github.io"
@@ -44,7 +44,7 @@ analytics:
 author:
   name             : "Matthew Hockert"
   avatar           : "profile.jpeg"
-  bio              : "PhD Student in Applied Economics"
+  bio              : "PhD Candidate in Applied Economics"
   location         : #"St.Paul, Minnesota"
   employer         :
   email            : "matthew.hockert@gmail.com"

@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my website!
 
-I am a PhD student in Applied Economics at the [University of Minnesota Applied Economics](https://apec.umn.edu), specializing in urban economics with a focus on housing, labor markets, land use, transportation, and public finance. My research examines how conservation easements, rent control, and major infrastructure investments shape property values, municipal finance, and neighborhood change.
+I am a PhD candidate in Applied Economics at the [University of Minnesota Applied Economics](https://apec.umn.edu), specializing in urban economics with a focus on housing, labor markets, land use, transportation, and public finance. My research examines how conservation easements, rent control, and major infrastructure investments shape property values, municipal finance, and neighborhood change. I am on the 2026–27 job market and expect to graduate in December 2026.
 
 I am currently a Graduate Research Assistant with the [Accessibility Observatory](https://www.cts.umn.edu/programs/ao), where I assist in building national datasets and tools to measure job accessibility by transportation mode, and a Conservation Economist Intern with Hennepin County, where I analyze the fiscal and housing market impacts of conservation programs.
 
