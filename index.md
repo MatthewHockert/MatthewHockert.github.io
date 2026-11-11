@@ -12,7 +12,7 @@ Welcome to my website!
 
 I am a PhD candidate in Applied Economics at the [University of Minnesota Applied Economics](https://apec.umn.edu), specializing in urban economics with a focus on housing, labor markets, land use, transportation, and public finance. My research examines how conservation easements, rent control, and major infrastructure investments shape property values, municipal finance, and neighborhood change. I am on the 2026–27 job market and expect to graduate in December 2026.
 
-I am currently a Graduate Research Assistant with the [Accessibility Observatory](https://www.cts.umn.edu/programs/ao), where I assist in building national datasets and tools to measure job accessibility by transportation mode, and a Conservation Economist Intern with Hennepin County, where I analyze the fiscal and housing market impacts of conservation programs.
+I am currently a Conservation Economist Intern with Hennepin County, where I analyze the fiscal and housing market impacts of conservation programs. From 2022 to 2026 I was a Graduate Research Assistant with the [Accessibility Observatory](https://www.cts.umn.edu/programs/ao), where I helped build national datasets and tools to measure job accessibility by transportation mode.
 
 
 Previously, I worked as a Data Science Intern at the [Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org) for two and a half years. During my time there, I contributed to various projects, including analyzing the effects of Current Expected Credit Loss (CECL) on banks’ reserves and collaborating with the stress testing team. My responsibilities included enhancing their forecasting model with Kalman Filtering and Smoothing techniques. 
